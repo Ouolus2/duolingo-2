@@ -4,7 +4,7 @@
 
 <img src="duo.svg" width="128px"/>
 
-Streak keeper and XP farm for Duolingo. Never get demoted again!
+Streak keeper and XP farm for Duolingo. Never get demoted again! fart
 s
 ### How to use
 
